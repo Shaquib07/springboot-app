@@ -12,6 +12,7 @@
 	<artifactId>spring-boot-basics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-basics</name>
+	<packaging>war</packaging>
 	<description> Project for Spring Boot</description>
 	<url/>
 	<licenses>
